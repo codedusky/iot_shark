@@ -1,7 +1,5 @@
 # cs219-f19-final-project
-# IoTShark
-
-This is our final project for CS 219 for the Fall 2019 quarter. 
+# IoTShark 
 
 IoTShark is a IOT monitoring service that allows users to monitor their IOT devices for trends in data sent/received.
 Ordinarily, setting up a man in the middle attack with proper configurations can take up quite a bit of time, and 
